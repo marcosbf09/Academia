@@ -57,7 +57,7 @@ public class Academia {
         
         while(q==0){
             
-            System.out.println("\n\t\t::::: GERENCIAMENTO DE DADOS DA ACADEMIA  :::::\n");
+            System.out.println("\n\t\t::::: ERENCIAMENTO DE DADOS DA ACADEMIA  :::::\n");
 
             System.out.println(":: O que deseja acessar?");
             System.out.println(":: 1. Gerenciamento de Pessoas");
